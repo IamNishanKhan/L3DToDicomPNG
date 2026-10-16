@@ -1,0 +1,1 @@
+"use strict";var MColorType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e.NONE="",e.DEFAULT="DEFAULT",e.HOVER="HOVER",e.SELECT="SELECT",e.EDIT="EDIT",e.INVALID="INVALID",e.INVALID_VALUE="INVALID_VALUE"}(MColorType=exports.MColorType||(exports.MColorType={}));

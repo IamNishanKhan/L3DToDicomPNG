@@ -1,0 +1,1 @@
+"use strict";var DynamicDataType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.Measurement=0]="Measurement",e[e.Annotation=1]="Annotation",e[e.UpdateAnnotation=2]="UpdateAnnotation",e[e.UpdateMeasurement=3]="UpdateMeasurement"}(DynamicDataType=exports.DynamicDataType||(exports.DynamicDataType={}));

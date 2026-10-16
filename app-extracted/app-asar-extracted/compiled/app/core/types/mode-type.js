@@ -1,0 +1,1 @@
+"use strict";var ModeType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.NONE=0]="NONE",e[e.CUT=1]="CUT",e[e.RENDER=2]="RENDER",e[e.UP=3]="UP",e[e.MIP=4]="MIP",e[e.SLICE=5]="SLICE"}(ModeType=exports.ModeType||(exports.ModeType={}));

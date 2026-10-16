@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var ColorParams=function(){function t(){}return t.prototype.equals=function(t){return this.contrast==t.contrast&&this.brightness==t.brightness&&this.hue==t.hue&&this.threshold==t.threshold&&this.mode==t.mode&&this.transparency==t.transparency},t}();exports.ColorParams=ColorParams;

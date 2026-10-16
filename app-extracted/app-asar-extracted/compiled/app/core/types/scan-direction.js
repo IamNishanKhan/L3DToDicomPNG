@@ -1,0 +1,1 @@
+"use strict";var ScanDirection;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.NONE=0]="NONE",e[e.SD_CW_L2R=2]="SD_CW_L2R",e[e.SD_CCW_R2L=3]="SD_CCW_R2L"}(ScanDirection=exports.ScanDirection||(exports.ScanDirection={}));

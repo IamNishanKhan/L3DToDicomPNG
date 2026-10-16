@@ -1,0 +1,1 @@
+"use strict";var TrackingMode;Object.defineProperty(exports,"__esModule",{value:!0}),function(M){M[M.TM_USE_PRESET_MODE=-1]="TM_USE_PRESET_MODE",M[M.TM_Untracked=0]="TM_Untracked",M[M.TM_MCM=1]="TM_MCM",M[M.TM_TF=2]="TM_TF"}(TrackingMode=exports.TrackingMode||(exports.TrackingMode={}));

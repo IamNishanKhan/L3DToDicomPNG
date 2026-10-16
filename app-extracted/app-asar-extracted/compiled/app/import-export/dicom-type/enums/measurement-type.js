@@ -1,0 +1,1 @@
+"use strict";var CLMeasurementType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.Line=0]="Line",e[e.Angle=1]="Angle",e[e.Area=2]="Area",e[e.Volume=3]="Volume",e[e.LineH=4]="LineH",e[e.LineW=5]="LineW",e[e.LineL=6]="LineL",e[e.VolumeArea=7]="VolumeArea",e[e.HWL=8]="HWL"}(CLMeasurementType=exports.CLMeasurementType||(exports.CLMeasurementType={}));

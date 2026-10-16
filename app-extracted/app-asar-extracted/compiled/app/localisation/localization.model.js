@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var localization_1=require("./localization");exports.LocalizationData=localization_1.LocalizationData;

@@ -1,0 +1,1 @@
+"use strict";var CameraType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.Orthographic=1]="Orthographic",e[e.Perspective=2]="Perspective"}(CameraType=exports.CameraType||(exports.CameraType={}));

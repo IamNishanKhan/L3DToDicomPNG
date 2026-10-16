@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var utils_1=require("../../../utils/utils"),UserViewsValue=function(){function e(e){this.views=e}return e.prototype.equals=function(e){return this==e||!!e&&utils_1.BKUtils.equalsArray(this.views,e.views)},e}();exports.UserViewsValue=UserViewsValue;

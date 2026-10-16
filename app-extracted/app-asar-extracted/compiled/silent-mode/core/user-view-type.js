@@ -1,0 +1,1 @@
+"use strict";var TypeView;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.None=0]="None",e[e.Default=1]="Default",e[e.Custom=2]="Custom",e[e.Auto=3]="Auto"}(TypeView=exports.TypeView||(exports.TypeView={}));

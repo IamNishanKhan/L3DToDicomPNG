@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var THREE=require("three"),ProjectAxis=function(){function e(){}return e.Default={Transverse:new THREE.Vector3(0,0,1),Sagittal:new THREE.Vector3(1,0,0),Coronal:new THREE.Vector3(0,1,0)},e}();exports.ProjectAxis=ProjectAxis;

@@ -1,0 +1,1 @@
+"use strict";var CLAnnotationType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.Arrow=0]="Arrow",e[e.Lable=1]="Lable"}(CLAnnotationType=exports.CLAnnotationType||(exports.CLAnnotationType={}));

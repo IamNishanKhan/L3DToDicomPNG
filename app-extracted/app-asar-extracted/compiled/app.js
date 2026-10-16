@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var electron_1=require("electron"),index_1=require("./index"),nrrd_1=require("./nrrd");"darwin"===process.platform&&(process.env.LANG="en_US.UTF-8"),nrrd_1.SilentMain().then((function(e){e?process.exit():index_1.default.main(electron_1.app,electron_1.BrowserWindow)}));

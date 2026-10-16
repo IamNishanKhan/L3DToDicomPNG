@@ -1,0 +1,1 @@
+"use strict";var ScanGeometry;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.SG_ViewRaw=0]="SG_ViewRaw",e[e.SG_Linear=1]="SG_Linear",e[e.SG_Fan=2]="SG_Fan",e[e.SG_TrackedFreehand=5]="SG_TrackedFreehand",e[e.SG_Pullback=6]="SG_Pullback"}(ScanGeometry=exports.ScanGeometry||(exports.ScanGeometry={}));

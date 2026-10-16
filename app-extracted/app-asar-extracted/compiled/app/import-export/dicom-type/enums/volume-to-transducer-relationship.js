@@ -1,0 +1,1 @@
+"use strict";var CLVolumeToTransducerRelationship;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.FIXED=0]="FIXED",e[e.POSITION_VAR=1]="POSITION_VAR",e[e.ORIENTATION_VAR=2]="ORIENTATION_VAR",e[e.VARIABLE=3]="VARIABLE"}(CLVolumeToTransducerRelationship=exports.CLVolumeToTransducerRelationship||(exports.CLVolumeToTransducerRelationship={}));

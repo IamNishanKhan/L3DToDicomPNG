@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var en_1=require("./locales/en");exports.LocalisationStore={en:en_1.en};

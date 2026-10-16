@@ -1,0 +1,1 @@
+"use strict";var MatrixType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.NONE=0]="NONE",e[e.LOCAL=1]="LOCAL",e[e.GLOBAL=2]="GLOBAL"}(MatrixType=exports.MatrixType||(exports.MatrixType={}));

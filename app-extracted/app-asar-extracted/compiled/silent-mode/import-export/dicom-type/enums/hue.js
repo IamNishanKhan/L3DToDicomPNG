@@ -1,0 +1,1 @@
+"use strict";var Hue;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.White=0]="White",e[e.Yellow=1]="Yellow",e[e.Green=2]="Green",e[e.Blue=3]="Blue",e[e.Custom=4]="Custom"}(Hue=exports.Hue||(exports.Hue={}));

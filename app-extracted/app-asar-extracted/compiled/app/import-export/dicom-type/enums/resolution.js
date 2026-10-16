@@ -1,0 +1,1 @@
+"use strict";var CLResolution;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.MIN=0]="MIN",e[e.MID=1]="MID",e[e.MAX=2]="MAX",e[e.LOW=3]="LOW",e[e.HIGH=4]="HIGH"}(CLResolution=exports.CLResolution||(exports.CLResolution={}));

@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var ImportExportColor=function(){function r(){}return r.pars=function(r){return{hasColor:r.HasColor,has8BitGrey:r.Has8BitGrey,clut:r.clut,maxBW:r.maxBW,isDICOM:!1}},r}();exports.ImportExportColor=ImportExportColor;

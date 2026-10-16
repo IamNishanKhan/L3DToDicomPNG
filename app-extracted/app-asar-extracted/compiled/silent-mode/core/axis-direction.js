@@ -1,0 +1,1 @@
+"use strict";var AxisDirection;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.Reverse=-1]="Reverse",e[e.Forward=1]="Forward"}(AxisDirection=exports.AxisDirection||(exports.AxisDirection={}));

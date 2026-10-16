@@ -1,0 +1,1 @@
+"use strict";var CLScanDirection;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.NOT_SET=0]="NOT_SET",e[e.CLOCKWISE=1]="CLOCKWISE",e[e.COUNTERCLOCKWISE=2]="COUNTERCLOCKWISE"}(CLScanDirection=exports.CLScanDirection||(exports.CLScanDirection={}));

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>bkViewer</title>
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta content="utf-8" http-equiv="encoding">
+
+        <link rel="stylesheet" type="text/css" href="assets/css/bundle.css">
+
+        <!-- Stats -->
+        <script type="text/javascript" src="external/libs/stats/build/stats.min.js"></script>
+
+        <script type="text/javascript">
+            const {AppMainRenderer} = require('./app/main.js');
+            window.onload = () => {
+                const appRenderer = new AppMainRenderer();
+                appRenderer.onInitRenderer();
+            };
+        </script>
+    </head>
+
+    <body training="true">
+        <div id="content" class="content noselect"></div>
+        <div style="display: none;" class="package-version">v9.0.20</div>
+        <div style="display: none;" class="package-date">2022-03-01T00:03:11.283Z</div>
+    </body>
+
+</html>

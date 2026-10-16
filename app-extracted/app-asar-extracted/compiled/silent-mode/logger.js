@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var Logger=function(){function e(){}return e.log=function(e){console.log(e)},e}();exports.Logger=Logger;

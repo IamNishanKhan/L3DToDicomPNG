@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var measure_types_1=require("./measure-types");exports.MPrefix={},exports.MPrefix[measure_types_1.MType.LINE]="mm",exports.MPrefix[measure_types_1.MType.ANGLE]="°",exports.MPrefix[measure_types_1.MType.AREA]="cm2",exports.MPrefix[measure_types_1.MType.VOLUME]="cm3";

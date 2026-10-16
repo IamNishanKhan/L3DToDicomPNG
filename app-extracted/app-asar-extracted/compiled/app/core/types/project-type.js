@@ -1,0 +1,1 @@
+"use strict";var ProjectType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.None=-1]="None",e[e.Transverse=0]="Transverse",e[e.Coronal=1]="Coronal",e[e.Sagittal=2]="Sagittal"}(ProjectType=exports.ProjectType||(exports.ProjectType={}));

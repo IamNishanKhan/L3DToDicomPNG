@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var ModeValue=function(){function e(){}return e.prototype.equals=function(e){return this==e||!!e},e}();exports.ModeValue=ModeValue;

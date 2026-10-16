@@ -1,0 +1,1 @@
+"use strict";var CMode;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.Color=0]="Color",e[e.Power=1]="Power"}(CMode=exports.CMode||(exports.CMode={}));

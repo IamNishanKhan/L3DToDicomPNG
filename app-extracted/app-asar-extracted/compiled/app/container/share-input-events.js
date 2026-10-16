@@ -1,0 +1,1 @@
+"use strict";var ShareInputEvents;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e.SEND_INPUT="send-input",e.RECIEVE_INPUT="recieve-input"}(ShareInputEvents=exports.ShareInputEvents||(exports.ShareInputEvents={}));

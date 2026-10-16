@@ -1,0 +1,1 @@
+"use strict";var CLArrowSize;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.Small=0]="Small",e[e.Big=1]="Big"}(CLArrowSize=exports.CLArrowSize||(exports.CLArrowSize={}));

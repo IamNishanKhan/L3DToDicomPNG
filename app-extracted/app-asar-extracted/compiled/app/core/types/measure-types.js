@@ -1,0 +1,1 @@
+"use strict";var MType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.NONE=0]="NONE",e[e.POINT=1]="POINT",e[e.LINE=2]="LINE",e[e.ANGLE=3]="ANGLE",e[e.AREA=4]="AREA",e[e.VOLUME=5]="VOLUME",e[e.HWL=6]="HWL"}(MType=exports.MType||(exports.MType={}));

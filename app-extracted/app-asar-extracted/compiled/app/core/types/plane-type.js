@@ -1,0 +1,1 @@
+"use strict";var PlaneType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.CUBE=0]="CUBE",e[e.DEFAULT=1]="DEFAULT",e[e.GENERIC=255]="GENERIC"}(PlaneType=exports.PlaneType||(exports.PlaneType={}));

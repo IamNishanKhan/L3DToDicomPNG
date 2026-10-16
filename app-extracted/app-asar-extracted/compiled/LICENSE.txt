@@ -1,0 +1,34 @@
+End-User License Agreement
+==========================
+Please read this End-User License Agreement carefully before clicking the "Accept" button and before using the bkViewer ("Application").
+By clicking the "Accept" button or using the Application, you (the "Customer") are agreeing to be bound by the terms and conditions of this Agreement set forth by BK Medical ApS ("BK Medical").
+If you do not agree to the terms of this Agreement, do not click on the "Accept" button and do not use the Application.
+
+License
+=======
+BK Medical grants Customer a revocable, non-exclusive, non-transferable, limited license to download, install and use the licensed Application, provided: (a) Customer uses Application strictly in accordance with the terms of this Agreement; and (b) Customer gives no more than one (1) concurrent user access to the licensed Application.
+Customer agrees to use Application only for the BK Medical ultrasound technology hardware for which the license is issued.
+Customer agrees to provide a system serial number to BK Medical for the issuance of a unique identifier key to activate the Application.
+
+Restrictions
+============
+Copies of the Application transferred pursuant to this Agreement are licensed, not sold, and Customer receives no title to or ownership of any copy or of the Application itself. Furthermore, Customer receives no rights to the Application other than those specifically granted in this Agreement.
+a)     Without limiting the generality of the foregoing, Customer agrees not to, and agrees not to permit others to:Use this software license with any product or system other than BK Medical hardware for which the license is issued.
+b)     License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose, reverse engineer or otherwise exploit the Application or make the Application available to any third party.
+c)     Modify, create derivative works from, distribute, publicly display, publicly perform, or sublicense the Application.
+
+Modifications to Application
+============================
+BK Medical reserves the right to modify, suspend or discontinue, temporarily or permanently, the Application or any service to which it connects, with or without notice and without liability to you.
+
+Term and Termination
+====================
+This Agreement shall remain in effect until terminated by Customer or BK Medical.
+BK Medical may, in its sole discretion, at any time and for any reason, suspend or terminate this Agreement without prior notice to Customer.
+This Agreement shall terminate immediately, without prior notice from BK Medical, in the event Customer fails to comply with any provision of this Agreement. Customer may also terminate this Agreement by deleting the Application and all copies thereof from their device.
+Upon termination of this Agreement, Customer shall cease all use of the Application and delete all copies of the Application.
+BK Medical reserves the right, at its sole discretion, to modify or replace this Agreement at any time without notice to Customer.
+
+Severability
+============
+If any provision of this Agreement is held to be unenforceable or invalid, the remaining provisions will continue in full force and effect. The provision determined to be unenforceable will be interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law.

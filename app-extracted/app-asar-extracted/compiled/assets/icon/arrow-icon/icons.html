@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body {
+			background-color: #ececec;
+		}
+		#body > div {
+			display: flex;
+			flex-flow: wrap;
+		}
+		.item {
+			height: 44px;
+			width: 44px;
+			background-position: center;
+			background-size: contain;
+			background-repeat: no-repeat;
+			color: #000;
+			margin-bottom: 30px;
+			margin-right: 60px;
+			position: relative;
+		}
+		.item2 {
+			height: 66px;
+			width: 66px;
+			background-position: center;
+			background-size: contain;
+			background-repeat: no-repeat;
+			color: #000;
+			margin-bottom: 00px;
+			margin-right: 60px;
+			position: relative;
+		}
+	</style>
+    <script type="text/javascript">
+        window.onload = () => {
+			var d1 = document.createElement('div');
+            for(var i = 1; i<10;i++) {
+				var d = document.createElement('div');
+				d.classList.toggle("item", true);
+				d.style.backgroundImage = 'url("small-' + i + '.svg")';
+				d.innerHTML ='<span style="position: absolute;bottom: -20px;width: 110px;">small-' + i + '.svg</span>';
+				d1.appendChild(d)
+			}
+			var d2 = document.createElement('div');
+			for(var i = 1; i<10;i++) {
+				var d = document.createElement('div');
+				d.classList.toggle("item2", true);
+				d.style.backgroundImage = 'url("large-' + i + '.svg")';
+				d.innerHTML ='<span style="position: absolute;bottom: -20px;width: 110px;">large-' + i + '.svg</span>';
+				d2.appendChild(d)
+			}
+			document.getElementById("body").appendChild(d1)
+			document.getElementById("body").appendChild(d2)
+        };
+    </script>
+</head>
+<body>
+	<div 
+	id="body"
+	style="
+		position: absolute;
+		z-index: 999;
+		background: transparent;
+		top: 0;
+		left: 0;
+		right: 0;
+	">
+	</div>
+</body>
+</html>

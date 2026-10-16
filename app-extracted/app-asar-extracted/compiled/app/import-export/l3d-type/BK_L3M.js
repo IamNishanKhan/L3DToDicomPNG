@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var BK_L3M=function(){function e(){}return e.prototype.Clone=function(){var t=new e;return t.Name=this.Name,t.UserViewType=this.UserViewType,t.Annotations=this.Annotations.slice(),t.Measurements=this.Measurements.slice(),t.ModelFaces=this.ModelFaces.slice(),t},e}();exports.BK_L3M=BK_L3M;

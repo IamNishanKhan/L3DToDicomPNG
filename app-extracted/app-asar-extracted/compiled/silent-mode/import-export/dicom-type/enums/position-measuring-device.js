@@ -1,0 +1,1 @@
+"use strict";var CLPositionMeasuringDevice;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.RIGID=0]="RIGID",e[e.FREEHAND=1]="FREEHAND"}(CLPositionMeasuringDevice=exports.CLPositionMeasuringDevice||(exports.CLPositionMeasuringDevice={}));

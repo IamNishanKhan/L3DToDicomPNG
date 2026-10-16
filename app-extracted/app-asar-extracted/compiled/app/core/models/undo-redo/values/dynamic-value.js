@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var DynamicValue=function(){function e(e,s){this.measurements=e,this.userViews=s}return e.prototype.equals=function(e){return this==e||!!e&&(!!this.measurements.equals(e.measurements)&&!!this.userViews.equals(e.userViews))},e}();exports.DynamicValue=DynamicValue;

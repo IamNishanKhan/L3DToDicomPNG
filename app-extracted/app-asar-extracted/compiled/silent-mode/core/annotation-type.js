@@ -1,0 +1,1 @@
+"use strict";var AType;Object.defineProperty(exports,"__esModule",{value:!0}),function(R){R[R.ANONE=0]="ANONE",R[R.ARROW1=10]="ARROW1",R[R.ARROW2=20]="ARROW2",R[R.ARROW3=21]="ARROW3",R[R.ARROW4=22]="ARROW4",R[R.ARROW5=12]="ARROW5",R[R.ARROW6=2]="ARROW6",R[R.ARROW7=1]="ARROW7",R[R.ARROW8=0]="ARROW8",R[R.ATEXT=99]="ATEXT"}(AType=exports.AType||(exports.AType={}));

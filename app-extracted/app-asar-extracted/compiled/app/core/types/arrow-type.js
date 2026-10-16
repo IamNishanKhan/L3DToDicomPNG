@@ -1,0 +1,1 @@
+"use strict";var ArrowType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.NONE=0]="NONE",e[e.SMALL=1]="SMALL",e[e.LARGE=2]="LARGE"}(ArrowType=exports.ArrowType||(exports.ArrowType={}));

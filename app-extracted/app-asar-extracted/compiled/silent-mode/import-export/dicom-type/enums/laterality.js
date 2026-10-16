@@ -1,0 +1,1 @@
+"use strict";var CLLaterality;Object.defineProperty(exports,"__esModule",{value:!0}),function(t){t[t.Right=0]="Right",t[t.Left=1]="Left"}(CLLaterality=exports.CLLaterality||(exports.CLLaterality={}));

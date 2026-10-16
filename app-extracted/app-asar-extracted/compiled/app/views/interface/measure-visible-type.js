@@ -1,0 +1,1 @@
+"use strict";var MeasureVisibleType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.NONE=-1]="NONE",e[e.WHOLE=0]="WHOLE",e[e.CUT=1]="CUT",e[e.OPACITY=2]="OPACITY"}(MeasureVisibleType=exports.MeasureVisibleType||(exports.MeasureVisibleType={}));

@@ -1,0 +1,1 @@
+"use strict";var CLGeometryType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.LINEAR=0]="LINEAR",e[e.FAN=1]="FAN",e[e.FREEHAND=2]="FREEHAND",e[e.PULLBACK=3]="PULLBACK"}(CLGeometryType=exports.CLGeometryType||(exports.CLGeometryType={}));

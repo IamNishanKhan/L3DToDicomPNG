@@ -1,0 +1,1 @@
+"use strict";var LType;Object.defineProperty(exports,"__esModule",{value:!0}),function(e){e[e.NONE=0]="NONE",e[e.POINT=1]="POINT",e[e.POINT2=2]="POINT2",e[e.TEXT=3]="TEXT"}(LType=exports.LType||(exports.LType={}));
