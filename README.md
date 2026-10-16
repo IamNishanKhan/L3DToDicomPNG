@@ -200,7 +200,24 @@ electron-runner\           # Native conversion runner
 app-extracted\             # Bundled application and decoder resources
 ```
 
-## License
+## License and usage restrictions
 
-See the license information distributed with this repository and its bundled
-components before redistributing or deploying the package.
+The original code in this repository is available under a custom
+**Use and Copy License**. Users may use the code and make verbatim copies for
+their own use, provided that they retain the copyright notice, license, and
+attribution to [**Nishan Khan**](https://github.com/IamNishanKhan).
+
+<p><strong><span style="color: red;">⚠️ IMPORTANT: You may not modify, publish, publicly host, distribute, sublicense, sell, or claim ownership of this code without prior written permission from <a href="https://github.com/IamNishanKhan">Nishan Khan</a>.</span></strong></p>
+
+This is **not an open-source license** because it does not grant permission to
+modify or redistribute the code. See the complete terms in
+[LICENSE](./LICENSE).
+
+The project is provided **as is**, without warranty of any kind. You are
+responsible for validating conversion results and for complying with all
+applicable medical-data, privacy, and regulatory requirements.
+
+The repository also includes bundled Electron, native decoder, and other
+third-party components. Those components may be covered by separate licenses
+and notices; review the license files distributed with the relevant component
+before redistributing or deploying the package.
